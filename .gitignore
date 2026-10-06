@@ -1,0 +1,4 @@
+# Somente imagens sao publicadas. Planilhas tem dados internos (custos).
+*.csv
+*.xls
+*.xlsx
